@@ -1,5 +1,5 @@
 # Aneural_Consciousness
-![xyz](XYZ.jpg)
+![xyz](GNOS.jpg)
 
 # AutoGnorics: The Science of Engineered Life Forms 
 
