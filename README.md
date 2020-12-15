@@ -1,5 +1,5 @@
-![xyz](GNOS.jpg)
-# AutoGnorics: The Science of Engineered Life Forms 
+![Autognorics](gnorics.jpg)
+# Aneural Consciousness 
 [HOME](https://autognorics.github.io/) 
 
 In the previous articles, Lawsin claimed that being alive and being aware are two different things. To be alive, according to him, means to be able to self-consume energy, e.g. a battery-operated toy is alive as long as it consumes energy by itself. While to be aware means to be able to sense signals through intuitive objects (IOs) or Exyzforms. 
