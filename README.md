@@ -13,5 +13,5 @@ In the [video](https://www.youtube.com/watch?v=QoYvR7LgpU4&feature=emb_title), t
 The biotronic in the video is alive, aware, and conscious, but not living and with life yet. However, on the next video, the machine will be trained to be rational or intuitive.
 
 
-"One can be aware without consciousness, but can not be conscious without awareness.
-~ Joey Lawsin
+> "One can be aware without consciousness, but can not be conscious without awareness.
+> ~ Joey Lawsin
